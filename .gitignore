@@ -2,9 +2,6 @@
 .reify-cache
 
 # build
-build
-hass_frontend/*
-dist
 
 # yarn
 .yarn/*
